@@ -5,8 +5,11 @@ source = {
    md5 = "37b18839e57e7a62834231395c8e962b"
 }
 description = {
-   summary = "Sodium Crypto Library (libsodium)",
-   detailed = "A convenience LuaRocks rock for the Sodium Crypto Library (libsodium)",
+   summary = "LuaRocks rock for the Sodium Crypto Library (libsodium)",
+   detailed = [[
+A convenient way to install the Sodium Crypto Library (libsodium) via LuaRocks.
+Please note this is not a libsodium to Lua binding! It just installs libsodium.
+]],
    homepage = "https://github.com/peter-evans/libsodium-rockspec",
    license = "MIT"
 }
